@@ -13,7 +13,7 @@ public class InsertData {
 	public static void main(String[] args) throws Exception {
 		String urlString = "jdbc:mysql://localhost:3306/employeedb";
 		String username = "devUser";
-		String password = "Ganesha@mysql123";
+		String password = "";
 		//We can write data manually..
 		//String queryString = "INSERT INTO employee VALUES(6,\"Prashant Thankur\",3211,450000,\"Programmer Analyst\")";
 		
