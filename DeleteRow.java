@@ -11,7 +11,7 @@ public class DeleteRow {
 	public static void main(String[] args) throws Exception {
 		String urlString = "jdbc:mysql://localhost:3306/employeedb";
 		String username = "devUser";
-		String password = "Ganesha@mysql123";
+		String password = "";
 
 		Scanner scanner = new Scanner(System.in);
 
